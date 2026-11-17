@@ -1,0 +1,6 @@
+{
+  "name": "Haldoren — Motion Design Portfolio",
+  "description": "One-screen portfolio hero for Haldoren, a fictional motion designer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
